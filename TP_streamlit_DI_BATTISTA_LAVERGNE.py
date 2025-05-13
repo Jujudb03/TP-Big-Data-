@@ -44,7 +44,7 @@ st.write("Merci d'avoir utilise notre application Streamlit !")
 age = st.slider("Quel âge avez-vous ?", 0, 100, 25)
 st.write(f"Vous avez {age} ans.")
 
-
+import pandas as pd
 import numpy as np
 # Checkbox
 if st.checkbox("Afficher un tableau aleatoire"):
