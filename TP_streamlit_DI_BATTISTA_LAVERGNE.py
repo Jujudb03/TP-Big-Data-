@@ -9,7 +9,7 @@ import streamlit as st
 
 #1 PRESENTATION GENERALE
 st.write("Hello, world! This is a Streamlit app.")
-st.title("My Streamlit App")
+st.title("The Streamlit App Of DI BATTISTA")
 st. subheader("Try out the app!")
 st.text("This is a simple text element.")
 
