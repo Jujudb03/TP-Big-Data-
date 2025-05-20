@@ -1,7 +1,7 @@
 # TP2 - Application Streamlit
 # Nom : DI BATTISTA
 # Prénom : Julien
-# Lien de l'application déployée : https://TON-LIEN.streamlit.app
+# Lien de l'application déployée :TP2_Application_Streamlit_DI-BATTISTA_Julien.py
 
 import streamlit as st
 import pandas as pd
