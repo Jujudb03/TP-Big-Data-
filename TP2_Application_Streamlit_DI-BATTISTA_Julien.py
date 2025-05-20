@@ -1,6 +1,6 @@
 # TP2 - Application Streamlit
-# Nom : [Ton Nom]
-# Prénom : [Ton Prénom]
+# Nom : DI BATTISTA
+# Prénom : Julien
 # Lien de l'application déployée : https://TON-LIEN.streamlit.app
 
 import streamlit as st
