@@ -1,7 +1,7 @@
 # TP2 - Application Streamlit
 # Nom : DI BATTISTA
 # Prénom : Julien
-# Lien de l'application : https://h6qwpvczwgagg657f7bpyj.streamlit.app 
+# Lien de l'application : https://gkzobx7hmmqinb2mxf7m8d.streamlit.app
 # https://github.com/Jujudb03/TP-Big-Data-/blob/main/TP2_Application_Streamlit_DI-BATTISTA_Julien.py
 
 
